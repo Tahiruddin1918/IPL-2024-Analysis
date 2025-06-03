@@ -1,0 +1,72 @@
+Match Number,Date & Time,Venue,Team 1,Team 1 Score,Team 2,Team 2 Score,winner,winning_margin,Winning Margin Value,Winning Margin Type
+74,2024-05-26 19:30:00,"MA Chidambaram Stadium,",Kolkata Knight Riders,114,Sunrisers Hyderabad,113,KOLKATA KNIGHT RIDERS,8 WICKETS,8,WICKETS
+73,2024-05-24 19:30:00,"MA Chidambaram Stadium,",Sunrisers Hyderabad,175,Rajasthan Royals,139,SUNRISERS HYDERABAD,36 RUNS,36,RUNS
+72,2024-05-22 19:30:00,"Narendra Modi Stadium,",Rajasthan Royals,174,Royal Challengers Bengaluru,172,RAJASTHAN ROYALS,4 WICKETS,4,WICKETS
+71,2024-05-21 19:30:00,"Narendra Modi Stadium,",Kolkata Knight Riders,164,Sunrisers Hyderabad,159,KOLKATA KNIGHT RIDERS,8 WICKETS,8,WICKETS
+69,2024-05-19 15:30:00,"Rajiv Gandhi International Stadium,",Sunrisers Hyderabad,215,Punjab Kings,214,SUNRISERS HYDERABAD,4 WICKETS,4,WICKETS
+68,2024-05-18 19:30:00,"M Chinnaswamy Stadium,",Royal Challengers Bengaluru,218,Chennai Super Kings,191,ROYAL CHALLENGERS BENGALURU,27 RUNS,27,RUNS
+67,2024-05-17 19:30:00,"Wankhede Stadium,",Mumbai Indians,196,Lucknow Super Giants,214,LUCKNOW SUPER GIANTS,18 RUNS,18,RUNS
+65,2024-05-15 19:30:00,"Barsapara Cricket Stadium,",Rajasthan Royals,144,Punjab Kings,145,PUNJAB KINGS,5 WICKETS,5,WICKETS
+64,2024-05-14 19:30:00,"Arun Jaitley Stadium,",Delhi Capitals,208,Lucknow Super Giants,189,DELHI CAPITALS,19 RUNS,19,RUNS
+62,2024-05-12 19:30:00,"M Chinnaswamy Stadium,",Royal Challengers Bengaluru,187,Delhi Capitals,140,ROYAL CHALLENGERS BENGALURU,47 RUNS,47,RUNS
+61,2024-05-12 15:30:00,"MA Chidambaram Stadium,",Chennai Super Kings,145,Rajasthan Royals,141,CHENNAI SUPER KINGS,5 WICKETS,5,WICKETS
+60,2024-05-11 19:30:00,"Eden Gardens,",Kolkata Knight Riders,157,Mumbai Indians,139,KOLKATA KNIGHT RIDERS,18 RUNS,18,RUNS
+59,2024-05-10 19:30:00,"Narendra Modi Stadium,",Gujarat Titans,231,Chennai Super Kings,196,GUJARAT TITANS,35 RUNS,35,RUNS
+58,2024-05-09 19:30:00,"Himachal Pradesh Cricket Association Stadium,",Punjab Kings,181,Royal Challengers Bengaluru,241,ROYAL CHALLENGERS BENGALURU,60 RUNS,60,RUNS
+57,2024-05-08 19:30:00,"Rajiv Gandhi International Stadium,",Sunrisers Hyderabad,167,Lucknow Super Giants,165,SUNRISERS HYDERABAD,10 WICKETS,10,WICKETS
+56,2024-05-07 19:30:00,"Arun Jaitley Stadium,",Delhi Capitals,221,Rajasthan Royals,201,DELHI CAPITALS,20 RUNS,20,RUNS
+55,2024-05-06 19:30:00,"Wankhede Stadium,",Mumbai Indians,174,Sunrisers Hyderabad,173,MUMBAI INDIANS,7 WICKETS,7,WICKETS
+54,2024-05-05 19:30:00,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,",Lucknow Super Giants,137,Kolkata Knight Riders,235,KOLKATA KNIGHT RIDERS,98 RUNS,98,RUNS
+53,2024-05-05 15:30:00,"Himachal Pradesh Cricket Association Stadium,",Punjab Kings,139,Chennai Super Kings,167,CHENNAI SUPER KINGS,28 RUNS,28,RUNS
+52,2024-05-04 19:30:00,"M Chinnaswamy Stadium,",Royal Challengers Bengaluru,152,Gujarat Titans,147,ROYAL CHALLENGERS BENGALURU,4 WICKETS,4,WICKETS
+51,2024-05-03 19:30:00,"Wankhede Stadium,",Mumbai Indians,145,Kolkata Knight Riders,169,KOLKATA KNIGHT RIDERS,24 RUNS,24,RUNS
+50,2024-05-02 19:30:00,"Rajiv Gandhi International Stadium,",Sunrisers Hyderabad,201,Rajasthan Royals,200,SUNRISERS HYDERABAD,1 RUN,1,
+49,2024-05-01 19:30:00,"MA Chidambaram Stadium,",Chennai Super Kings,162,Punjab Kings,163,PUNJAB KINGS,7 WICKETS,7,WICKETS
+48,2024-04-30 19:30:00,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,",Lucknow Super Giants,145,Mumbai Indians,144,LUCKNOW SUPER GIANTS,4 WICKETS,4,WICKETS
+47,2024-04-29 19:30:00,"Eden Gardens,",Kolkata Knight Riders,157,Delhi Capitals,153,KOLKATA KNIGHT RIDERS,7 WICKETS,7,WICKETS
+46,2024-04-28 19:30:00,"MA Chidambaram Stadium,",Chennai Super Kings,212,Sunrisers Hyderabad,134,CHENNAI SUPER KINGS,78 RUNS,78,RUNS
+45,2024-04-28 15:30:00,"Narendra Modi Stadium,",Gujarat Titans,200,Royal Challengers Bengaluru,206,ROYAL CHALLENGERS BENGALURU,9 WICKETS,9,WICKETS
+44,2024-04-27 19:30:00,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,",Lucknow Super Giants,196,Rajasthan Royals,199,RAJASTHAN ROYALS,7 WICKETS,7,WICKETS
+43,2024-04-27 15:30:00,"Arun Jaitley Stadium,",Delhi Capitals,257,Mumbai Indians,247,DELHI CAPITALS,10 RUNS,10,RUNS
+42,2024-04-26 19:30:00,"Eden Gardens,",Kolkata Knight Riders,261,Punjab Kings,262,PUNJAB KINGS,8 WICKETS,8,WICKETS
+41,2024-04-25 19:30:00,"Rajiv Gandhi International Stadium,",Sunrisers Hyderabad,171,Royal Challengers Bengaluru,206,ROYAL CHALLENGERS BENGALURU,35 RUNS,35,RUNS
+40,2024-04-24 19:30:00,"Arun Jaitley Stadium,",Delhi Capitals,224,Gujarat Titans,220,DELHI CAPITALS,4 RUNS,4,RUNS
+39,2024-04-23 19:30:00,"MA Chidambaram Stadium,",Chennai Super Kings,210,Lucknow Super Giants,213,LUCKNOW SUPER GIANTS,6 WICKETS,6,WICKETS
+38,2024-04-22 19:30:00,"Sawai Mansingh Stadium,",Rajasthan Royals,183,Mumbai Indians,179,RAJASTHAN ROYALS,9 WICKETS,9,WICKETS
+37,2024-04-21 19:30:00,"PCA New Stadium,",Punjab Kings,142,Gujarat Titans,146,GUJARAT TITANS,3 WICKETS,3,WICKETS
+36,2024-04-21 15:30:00,"Eden Gardens,",Kolkata Knight Riders,222,Royal Challengers Bengaluru,221,KOLKATA KNIGHT RIDERS,1 RUN,1,
+35,2024-04-20 19:30:00,"Arun Jaitley Stadium,",Delhi Capitals,199,Sunrisers Hyderabad,266,SUNRISERS HYDERABAD,67 RUNS,67,RUNS
+34,2024-04-19 19:30:00,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,",Lucknow Super Giants,180,Chennai Super Kings,176,LUCKNOW SUPER GIANTS,8 WICKETS,8,WICKETS
+33,2024-04-18 19:30:00,"PCA New Stadium,",Punjab Kings,183,Mumbai Indians,192,MUMBAI INDIANS,9 RUNS,9,RUNS
+32,2024-04-17 19:30:00,"Narendra Modi Stadium,",Gujarat Titans,89,Delhi Capitals,92,DELHI CAPITALS,6 WICKETS,6,WICKETS
+31,2024-04-16 19:30:00,"Eden Gardens,",Kolkata Knight Riders,223,Rajasthan Royals,224,RAJASTHAN ROYALS,2 WICKETS,2,WICKETS
+30,2024-04-15 19:30:00,"M Chinnaswamy Stadium,",Royal Challengers Bengaluru,262,Sunrisers Hyderabad,287,SUNRISERS HYDERABAD,25 RUNS,25,RUNS
+29,2024-04-14 19:30:00,"Wankhede Stadium,",Mumbai Indians,186,Chennai Super Kings,206,CHENNAI SUPER KINGS,20 RUNS,20,RUNS
+28,2024-04-14 15:30:00,"Eden Gardens,",Kolkata Knight Riders,162,Lucknow Super Giants,161,KOLKATA KNIGHT RIDERS,8 WICKETS,8,WICKETS
+27,2024-04-13 19:30:00,"PCA New Stadium,",Punjab Kings,147,Rajasthan Royals,152,RAJASTHAN ROYALS,3 WICKETS,3,WICKETS
+26,2024-04-12 19:30:00,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,",Lucknow Super Giants,167,Delhi Capitals,170,DELHI CAPITALS,6 WICKETS,6,WICKETS
+25,2024-04-11 19:30:00,"Wankhede Stadium,",Mumbai Indians,199,Royal Challengers Bengaluru,196,MUMBAI INDIANS,7 WICKETS,7,WICKETS
+24,2024-04-10 19:30:00,"Sawai Mansingh Stadium,",Rajasthan Royals,196,Gujarat Titans,199,GUJARAT TITANS,3 WICKETS,3,WICKETS
+23,2024-04-09 19:30:00,"PCA New Stadium,",Punjab Kings,180,Sunrisers Hyderabad,182,SUNRISERS HYDERABAD,2 RUNS,2,RUNS
+22,2024-04-08 19:30:00,"MA Chidambaram Stadium,",Chennai Super Kings,141,Kolkata Knight Riders,137,CHENNAI SUPER KINGS,7 WICKETS,7,WICKETS
+21,2024-04-07 19:30:00,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,",Lucknow Super Giants,163,Gujarat Titans,130,LUCKNOW SUPER GIANTS,33 RUNS,33,RUNS
+20,2024-04-07 15:30:00,"Wankhede Stadium,",Mumbai Indians,234,Delhi Capitals,205,MUMBAI INDIANS,29 RUNS,29,RUNS
+19,2024-04-06 19:30:00,"Sawai Mansingh Stadium,",Rajasthan Royals,189,Royal Challengers Bengaluru,183,RAJASTHAN ROYALS,6 WICKETS,6,WICKETS
+18,2024-04-05 19:30:00,"Rajiv Gandhi International Stadium,",Sunrisers Hyderabad,166,Chennai Super Kings,165,SUNRISERS HYDERABAD,6 WICKETS,6,WICKETS
+17,2024-04-04 19:30:00,"Narendra Modi Stadium,",Gujarat Titans,199,Punjab Kings,200,PUNJAB KINGS,3 WICKETS,3,WICKETS
+16,2024-04-03 19:30:00,"Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium,",Delhi Capitals,166,Kolkata Knight Riders,272,KOLKATA KNIGHT RIDERS,106 RUNS,106,RUNS
+15,2024-04-02 19:30:00,"M Chinnaswamy Stadium,",Royal Challengers Bengaluru,153,Lucknow Super Giants,181,LUCKNOW SUPER GIANTS,28 RUNS,28,RUNS
+14,2024-04-01 19:30:00,"Wankhede Stadium,",Mumbai Indians,125,Rajasthan Royals,127,RAJASTHAN ROYALS,6 WICKETS,6,WICKETS
+13,2024-03-31 19:30:00,"Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium,",Delhi Capitals,191,Chennai Super Kings,171,DELHI CAPITALS,20 RUNS,20,RUNS
+12,2024-03-31 15:30:00,"Narendra Modi Stadium,",Gujarat Titans,168,Sunrisers Hyderabad,162,GUJARAT TITANS,7 WICKETS,7,WICKETS
+11,2024-03-30 19:30:00,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,",Lucknow Super Giants,199,Punjab Kings,178,LUCKNOW SUPER GIANTS,21 RUNS,21,RUNS
+10,2024-03-29 19:30:00,"M Chinnaswamy Stadium,",Royal Challengers Bengaluru,182,Kolkata Knight Riders,186,KOLKATA KNIGHT RIDERS,7 WICKETS,7,WICKETS
+9,2024-03-28 19:30:00,"Sawai Mansingh Stadium,",Rajasthan Royals,185,Delhi Capitals,173,RAJASTHAN ROYALS,12 RUNS,12,RUNS
+8,2024-03-27 19:30:00,"Rajiv Gandhi International Stadium,",Sunrisers Hyderabad,277,Mumbai Indians,246,SUNRISERS HYDERABAD,31 RUNS,31,RUNS
+7,2024-03-26 19:30:00,"MA Chidambaram Stadium,",Chennai Super Kings,206,Gujarat Titans,143,CHENNAI SUPER KINGS,63 RUNS,63,RUNS
+6,2024-03-25 19:30:00,"M Chinnaswamy Stadium,",Royal Challengers Bengaluru,178,Punjab Kings,176,ROYAL CHALLENGERS BENGALURU,4 WICKETS,4,WICKETS
+5,2024-03-24 19:30:00,"Narendra Modi Stadium,",Gujarat Titans,168,Mumbai Indians,162,GUJARAT TITANS,6 RUNS,6,RUNS
+4,2024-03-24 15:30:00,"Sawai Mansingh Stadium,",Rajasthan Royals,193,Lucknow Super Giants,173,RAJASTHAN ROYALS,20 RUNS,20,RUNS
+3,2024-03-23 19:30:00,"Eden Gardens,",Kolkata Knight Riders,208,Sunrisers Hyderabad,204,KOLKATA KNIGHT RIDERS,4 RUNS,4,RUNS
+2,2024-03-23 15:30:00,"PCA New Stadium,",Punjab Kings,177,Delhi Capitals,174,PUNJAB KINGS,4 WICKETS,4,WICKETS
+1,2024-03-22 20:00:00,"MA Chidambaram Stadium,",Chennai Super Kings,176,Royal Challengers Bengaluru,173,CHENNAI SUPER KINGS,6 WICKETS,6,WICKETS
