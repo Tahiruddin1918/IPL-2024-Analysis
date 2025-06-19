@@ -50,9 +50,16 @@ The dataset used is `ipl_complete_data_2024.csv`, containing 74 IPL 2024 matches
 
 ---
 
-## 📂 Project Structure
-├── IPL2024_Analysis.ipynb # Visualize key insights and patterns
-├── IPL2024_DataCleaning.ipynb # Data cleaning processes
-├── ipl_cleaned_data.csv # Cleaned dataset used for analysis
-├── ipl_complete_data_2024.csv # Dataset used for the project
-└── README.md # Project documentation
+📂 IPL-2024-Data-Analysis/
+│
+├── data/
+│   ├── ipl_complete_data_2024.csv       # Raw dataset
+│
+├── notebooks/
+│   ├── IPL2024_Datacleaning.ipynb       # Data cleaning & preprocessing
+│   └── IPL2024_Analysis.ipynb           # Exploratory data analysis & visualizations
+│
+├── outputs/
+│   └── ipl_cleaned_data.csv             # Cleaned dataset saved after preprocessing
+│
+├── README.md                            # Project overview and documentation
