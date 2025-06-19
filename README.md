@@ -50,9 +50,8 @@ The dataset used is `ipl_complete_data_2024.csv`, containing 74 IPL 2024 matches
 
 ---
 
-📂 IPL-2024-Data-Analysis/
+###📂 IPL-2024-Data-Analysis
 ```
-│
 ├── data/
 │   ├── ipl_complete_data_2024.csv       # Raw dataset
 │
@@ -63,5 +62,5 @@ The dataset used is `ipl_complete_data_2024.csv`, containing 74 IPL 2024 matches
 ├── outputs/
 │   └── ipl_cleaned_data.csv             # Cleaned dataset saved after preprocessing
 │
-├── README.md                            # Project overview and documentation
+└── README.md                            # Project overview and documentation
 ```
